@@ -53,6 +53,6 @@ Django · MySQL · Tailwind · Media Handling · Auth System
 ## 🌐 Contacto
 
 GitHub: https://github.com/btoledo1992
-
-
-GitHub: https://github.com/btoledo1992
+Linkedin: https://linkedin.com/in/blas-emanuel-toledo-0a0185260
+Whattsap: +54 2901 472190
+Email: ematoledo1992@gmail.com
